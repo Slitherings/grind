@@ -1,0 +1,8 @@
+{
+    "telegramBotKey": "your-bot-key",
+    "telegramChatId": "your-chat-id",
+    "minLiquidity": 10000,
+    "minHolders": 100,
+    "maxTopHolder": 0.15,
+    "minLockTime": 2592000
+}
